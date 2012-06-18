@@ -8,6 +8,11 @@ License
 
 Apache License, Version 2.0
 
+Download
+--------
+
+    git clone git://github.com/TakahikoKawasaki/CountryCode.git
+
 Javadoc
 -------
 
