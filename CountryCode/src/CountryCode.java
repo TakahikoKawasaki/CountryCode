@@ -74,8 +74,14 @@ public enum CountryCode
     /** <a href="http://en.wikipedia.org/wiki/Anguilla">Anguilla</a> */
     AI("Anguilla", "AIA", 660),
 
+    /** <a href="http://en.wikipedia.org/wiki/Albania">Albania</a> */
+    AL("Albania", "ALB", 8),
+
     /** <a href="http://en.wikipedia.org/wiki/Armenia">Armenia</a> */
     AM("Armenia", "ARM", 51),
+
+    /** <a href="http://en.wikipedia.org/wiki/Netherlands_Antilles">Netherlands Antilles</a> */
+    AN("Netherlands Antilles", "ANT", 530),
 
     /** <a href="http://en.wikipedia.org/wiki/Angola">Angola</a> */
     AO("Angola", "AGO", 24),
@@ -310,6 +316,9 @@ public enum CountryCode
 
     /** <a href="http://en.wikipedia.org/wiki/The_Gambia">Gambia</a> */
     GM("Gambia", "GMB", 270),
+
+    /** <a href="http://en.wikipedia.org/wiki/Guinea">Guinea</a> */
+    GN("Guinea", "GIN", 324),
 
     /** <a href="http://en.wikipedia.org/wiki/Guadeloupe">Guadeloupe</a> */
     GP("Guadeloupe", "GLP", 312),
