@@ -1,6 +1,12 @@
 CountryCode
 ===========
 
+Note
+----
+
+This repository is deprecated and replaced by [nv-i18n](https://github.com/TakahikoKawasaki/nv-i18n).
+See https://github.com/TakahikoKawasaki/nv-i18n
+
 Overview
 --------
 
