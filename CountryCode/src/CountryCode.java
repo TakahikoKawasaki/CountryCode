@@ -504,7 +504,7 @@ public enum CountryCode
     MN("Mongolia", "MNG", 496),
 
     /** <a href="http://en.wikipedia.org/wiki/Macau">Macao</a> */
-    MO("Macao", "MCO", 492),
+    MO("Macao", "MAC", 446),
 
     /** <a href="http://en.wikipedia.org/wiki/Northern_Mariana_Islands">Northern Mariana Islands</a> */
     MP("Northern Mariana Islands", "MNP",580),
